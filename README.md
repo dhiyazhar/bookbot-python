@@ -1,1 +1,1 @@
-boot.dev inspired Python bot to summarize book's knowledge.
+boot.dev inspired Python bot to analyze a file.
