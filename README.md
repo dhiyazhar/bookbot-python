@@ -1,1 +1,1 @@
-BookBot is my first project!
+boot.dev inspired Python bot to summarize book's knowledge.
